@@ -5,7 +5,7 @@
     <br/>
     <br/>
     <p><strong>Başarılı olmak için çok çalışmamız gereken günlerden geçiyoruz</strong></p>
-    <p>Dark Vader bugünleri düzeltebilir, onları başkan yapmaya ne dersiniz?</p>
+    <p>Dark Vader bugünleri düzeltebilir, onu başkan yapmaya ne dersiniz?</p>
     <div id="suggestions">
     <a href="https://github.com/contact">Contact Support</a> •
     <a href="https://githubstatus.com">GitHub Status</a> •
